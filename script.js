@@ -1,1 +1,1 @@
-console.log("LuxDesign Premium Demo Loaded!");
+console.log("Azura Design Studio - version française chargée !");
